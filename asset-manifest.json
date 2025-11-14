@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Yaswanth-reddy-gunupati8712/my-react-app/static/css/main.e0ae6c5e.css",
-    "main.js": "/Yaswanth-reddy-gunupati8712/my-react-app/static/js/main.62d768e2.js",
+    "main.js": "/Yaswanth-reddy-gunupati8712/my-react-app/static/js/main.697cbb23.js",
     "static/media/carousel_1.png": "/Yaswanth-reddy-gunupati8712/my-react-app/static/media/carousel_1.976f72edb5f7878fdd24.png",
     "static/media/timing_logo.png": "/Yaswanth-reddy-gunupati8712/my-react-app/static/media/timing_logo.d5c74aa0f7637e62b02f.png",
     "static/media/dollor_logo.png": "/Yaswanth-reddy-gunupati8712/my-react-app/static/media/dollor_logo.83236b113bd9d74ffc79.png",
     "static/media/e_logo.png": "/Yaswanth-reddy-gunupati8712/my-react-app/static/media/e_logo.747195f758e1869b85e4.png",
     "index.html": "/Yaswanth-reddy-gunupati8712/my-react-app/index.html",
     "main.e0ae6c5e.css.map": "/Yaswanth-reddy-gunupati8712/my-react-app/static/css/main.e0ae6c5e.css.map",
-    "main.62d768e2.js.map": "/Yaswanth-reddy-gunupati8712/my-react-app/static/js/main.62d768e2.js.map"
+    "main.697cbb23.js.map": "/Yaswanth-reddy-gunupati8712/my-react-app/static/js/main.697cbb23.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ae6c5e.css",
-    "static/js/main.62d768e2.js"
+    "static/js/main.697cbb23.js"
   ]
 }
