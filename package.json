@@ -1,7 +1,7 @@
 {
   "name": "online-job-portal",
   "version": "0.1.0",
-  "homepage": "https://github.com/Yaswanth-reddy-gunupati8712/my-react-app/",
+"homepage": "https://yaswanth-reddy-gunupati8712.github.io/my-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
